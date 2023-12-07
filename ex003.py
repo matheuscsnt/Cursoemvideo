@@ -2,7 +2,7 @@ numero1 = int(input('Digite um número: '))
 numero2 = int(input('Digite um segundo número: '))
 resultado = numero1 + numero2
 
-print('Essa é a soma dos dois números: ', resultado)
+print(f'A soma entre {numero1} e {numero2} é igual a: {resultado}')
 
 # esse exercício está incorreto, a ideia era buscar o resultado e apresentar nesse print, porém ele está como uma string
 
