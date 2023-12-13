@@ -11,7 +11,7 @@ num_tabuada8 = numero * 8
 num_tabuada9 = numero * 9
 num_tabuada10 = numero * 10
 
-print(f''' A tabuada deste numero é:
+print(f''' Segue a tabuada deste número:
     {numero}x1 = {num_tabuada1},
     {numero}x2 = {num_tabuada2},
     {numero}x3 = {num_tabuada3},
