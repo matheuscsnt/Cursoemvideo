@@ -19,6 +19,7 @@ sleep(1)
 
 if opcao != 0 and opcao != 1 and opcao != 2:
     print('JOGADA INVÁLIDA, JOGUE NOVAMENTE.')
+    quit()
 else:
     print('-=' * 11)
     print(f'Computador jogou {itens[computador]}')
